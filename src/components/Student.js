@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import axios from 'axios'
-import './bear.css'
+import './Student.css'
 
 export default () => {
 
