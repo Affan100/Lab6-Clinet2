@@ -1,0 +1,36 @@
+.btnGet{
+    border-radius: 10%;
+    border: 1px solid #ffb916;
+    background: #ffb916;
+    color: #fff;
+    cursor: pointer;
+    margin-left: 5px;
+}
+.btnDe{
+    border-radius: 10%;
+    border: 1px solid #ff2516;
+    background: #ff1e16;
+    color: #fff;
+    cursor: pointer;
+    margin-left: 5px;
+}
+.btnUp{
+    border-radius: 10%;
+    border: 1px solid #1660ff;
+    background: #1660ff;
+    color: #fff;
+    cursor: pointer;
+    margin-left: 5px;
+    
+}
+.btnAdd{
+    border-radius: 10%;
+    border: 1px solid #1660ff;
+    background: #1660ff;
+    color: #fff;
+    cursor: pointer;
+    
+}
+h2{
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
